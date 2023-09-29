@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: planview-container
-        image: anujsharma1990/planview
+        image: lelepompom/planview
         ports:
         - containerPort: 8080
         resources:
